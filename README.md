@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi! 🐱🐈💗
+
+My name is Paige and I'm a student at Arizona State. My major is in **Graphic Information Technology** with a focus in *Digital Design, Print, and Publishing*. I will be graduating with my Bachelor's in the Fall of 2025 and I hope to get a job as a Graphic Designer once I've completed school. 
+
+Thanks for stopping by! 😁
+
+![Sun Devils Logo](1747098.jpg)
+
 
 <!--
 **pmweiss1/pmweiss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
